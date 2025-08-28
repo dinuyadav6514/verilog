@@ -97,3 +97,5 @@ endmodule
 ```
 
 ## 4. Timing Chart:-
+
+<img width="1856" height="295" alt="image" src="https://github.com/user-attachments/assets/d0eb6218-a3b7-4a17-87a9-385af7965a4f" />
